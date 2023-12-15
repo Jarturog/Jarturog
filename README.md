@@ -12,4 +12,4 @@
 
 Developing with Godot Engine. Right now I have the code in private since it is a pain to look at it.
 
-![](http://via.placeholder.com/200x150)
+<iframe src="https://giphy.com/embed/26gYVFNGcvEWYtw9W" width="480" height="233" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/creepy-noise-texture-26gYVFNGcvEWYtw9W">via GIPHY</a></p>
