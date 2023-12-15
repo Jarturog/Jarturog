@@ -12,4 +12,4 @@
 
 Developing with Godot Engine. Right now I have the code in private since it is a pain to look at it.
 
-![](https://giphy.com/embed/26gYVFNGcvEWYtw9W)
+![](http://via.placeholder.com/200x150)
