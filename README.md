@@ -8,8 +8,3 @@
   - 🖥️ Low-level programming
   - 🎨 Graphics programming
 
-#### Map game 🗺️
-
-Developing with Godot Engine. Right now I have the code in private since it is a pain to look at it.
-
-![gif](https://i.gifer.com/DSBZ.gif)
