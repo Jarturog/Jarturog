@@ -1,16 +1,15 @@
-### Hi there 👋
+### Arturo
 
-<!--
-**Jarturog/Jarturog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a map game
+- 🌱 I’m currently studying 3rd year of Computer Engineering at [UIB 🏝️](https://www.uib.eu)
+- ⚡ Some of my interests are:
+  - 🤖 Artificial intelligence
+  - 🎮 Game development
+  - 🖥️ Low-level programming
+  - 🎨 Graphics programming
 
-Here are some ideas to get you started:
+#### Map game 🗺️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on a map game using Godot Engine. Right now I have the code in private since it is a pain to look at it.
+
+![](https://giphy.com/gifs/creepy-noise-texture-26gYVFNGcvEWYtw9W)
