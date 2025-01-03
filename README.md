@@ -8,7 +8,7 @@
   - 🎮 Game Development
   - 🖥️ Graphics Programming
   - 📊 Data Science
-  - Informatics applied to:
+  - Other disciplines:
     - 🦠 Biology
     - ⚗️ Chemistry
-
+    - 📜 History
