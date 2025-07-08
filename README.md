@@ -1,6 +1,6 @@
 ### Arturo
 
-- 🎓 Studying 4th year of Computer Engineering at [UIB 🏝️](https://www.uib.eu)
+- 🎓 Studying the Master's in Machine Learning and Big Data at [UPM](https://www.upm.es)
 - ⭐ Some of my interests are:
   - 💭 Cognitive Sciences
     - 🤖 Artificial Intelligence
@@ -11,4 +11,5 @@
   - Other disciplines:
     - 🦠 Biology
     - ⚗️ Chemistry
+    - 💭 Philosophy
     - 📜 History
