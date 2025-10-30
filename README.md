@@ -5,8 +5,6 @@
 - ⭐ Academic & intellectual interests:
   - 🧠 Cognitive Sciences
     - 🤖 Artificial Intelligence
-      - 👁️ Computer Vision
-      - 💬 Natural Language Processing
     - ⚡ Neuroscience
     - 📖 Philosophy
     - 💡 Psychology
