@@ -1,15 +1,26 @@
 ### Arturo
 
+- 📄 [Curriculum Vitae (CV)](https://jarturog.github.io/)
 - 🎓 Studying the Master's in Machine Learning and Big Data at [UPM](https://www.upm.es)
-- ⭐ Some of my interests are:
-  - 💭 Cognitive Sciences
+- ⭐ Academic & intellectual interests:
+  - 🧠 Cognitive Sciences
     - 🤖 Artificial Intelligence
-    - 🧠 Neuroscience
+      - 👁️ Computer Vision
+      - 💬 Natural Language Processing
+    - ⚡ Neuroscience
+    - 📖 Philosophy
+    - 💡 Psychology
+    - 🔤 Linguistics
+    - 🌍 Anthropology
   - 🎮 Game Development
   - 🖥️ Graphics Programming
   - 📊 Data Science
+  - 🦿 Robotics
   - Other disciplines:
     - 🦠 Biology
     - ⚗️ Chemistry
-    - 💭 Philosophy
     - 📜 History
+- 🌿 Some personal interests:
+  - ⛰️ Hiking
+  - 🚲 Traveling
+  - 🎹 Making music
