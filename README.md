@@ -6,7 +6,7 @@
   - 🧠 Cognitive Sciences
     - 🤖 Artificial Intelligence
       - 🧩 Representation Learning
-      - 🏗️ Neural Network Architecture
+      - 🏗️ Neural Network Architectures
       - 🎨 Multimodal Learning
       - 🔍 Interpretability & Explainability
     - ⚡ Neuroscience
