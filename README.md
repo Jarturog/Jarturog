@@ -5,6 +5,10 @@
 - ⭐ Academic & intellectual interests:
   - 🧠 Cognitive Sciences
     - 🤖 Artificial Intelligence
+      - 🧩 Representation Learning
+      - 🏗️ Neural Network Architecture
+      - 🎨 Multimodal Learning
+      - 🔍 Interpretability & Explainability
     - ⚡ Neuroscience
     - 📖 Philosophy
     - 💡 Psychology
