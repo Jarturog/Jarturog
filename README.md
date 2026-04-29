@@ -14,6 +14,11 @@
     - 💡 Psychology
     - 🔤 Linguistics
     - 🌍 Anthropology
+  - 🧮 Mathematics
+    - 📐 Linear Algebra
+    - 🎲 Statistics
+    - 📉 Optimization
+    - 📡 Information Theory
   - 🎮 Game Development
   - 🖥️ Graphics Programming
   - 📊 Data Science
