@@ -1,7 +1,7 @@
 ### Arturo
 
 - 📄 [Curriculum Vitae (CV)](https://jarturog.github.io/)
-- 🎓 Machine Learning PhD Researcher at [Bielefeld University](https://www.uni-bielefeld.de), supervised by [Barbara Hammer](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/maschinelles-lernen/) and funded by the Marie Skłodowska-Curie Actions (MSCA) Doctoral Network [SPRING](https://spring-project.eu/), under the Horizon Europe programme
+- 🎓 Machine Learning PhD Researcher at [Bielefeld University](https://www.uni-bielefeld.de), supervised by [Barbara Hammer](https://scholar.google.com/citations?user=1d3OxaUAAAAJ) and funded by the Marie Skłodowska-Curie Actions (MSCA) Doctoral Network [SPRING](https://spring-project.eu/), under the Horizon Europe programme
 - ⭐ Academic & intellectual interests:
   - 🧠 Cognitive Sciences
     - 🤖 Artificial Intelligence
